@@ -1,0 +1,7 @@
+2026-10-26 11:27:26 UTC | INFO | TransitCast collector started.
+2026-10-26 11:27:26 UTC | INFO | Collection interval: 60 seconds
+2026-10-26 11:27:26 UTC | INFO | Saving snapshots to: C:\Users\abdal\Desktop\edmonton-transit-intelligence\data\realtime
+2026-10-26 11:27:26 UTC | INFO | Press Ctrl+C to stop.
+2026-10-26 11:27:27 UTC | INFO | Saved trip_updates_20261026_172726.pb (3,571,455 bytes)
+2026-10-26 11:28:27 UTC | INFO | Saved trip_updates_20261026_172826.pb (3,572,308 bytes)
+2026-10-26 11:29:21 UTC | INFO | Collector stopped by user.
