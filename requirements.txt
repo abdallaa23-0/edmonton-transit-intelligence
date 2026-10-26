@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+requests
+fastapi
+uvicorn
+gtfs-realtime-bindings 
